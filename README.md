@@ -8,4 +8,3 @@ I start by reviewing the requirements and breaking them down into smaller, more 
 
 **How do I approach designing software?**
 I approach designing software by first breaking the problem into smaller, digestible parts. I try to make sure each class or method has a clear purpose. It keeps the program organized and easier to understand. I also think about how different parts of the program will connect before fully building it (this is very important). I learned good design isn’t just about making something work once, but about making it readable, testable, and easy to update. My approach is to plan first, build, and then improve the program through testing and revision.
-<img width="468" height="390" alt="image" src="https://github.com/user-attachments/assets/0cbd300f-7b69-4e0d-8343-2adff1b8edc9" />
